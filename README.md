@@ -235,7 +235,7 @@ https://fleet-management-logistics-tracking.onrender.com/docs
 
 ### GitHub Repository
 
-https://github.com/NaniBade/FleetFlow
+https://github.com/NaniBade/FleetFlow-Fleet-Management-Logistics-Tracking-Platform
 
 ---
 
