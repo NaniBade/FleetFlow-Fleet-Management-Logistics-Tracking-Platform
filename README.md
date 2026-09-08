@@ -225,17 +225,17 @@ FleetFlow/
 
 **FleetFlow Production Application**
 
-https://feetflowmanagement.up.railway.app
+https://fleetflow-frontend-5mmb.onrender.com
 
 ### Backend
 
 **FleetFlow Production API**
 
-https://fleetflow-production-e3cb.up.railway.app
+https://fleet-management-logistics-tracking.onrender.com/docs
 
 ### GitHub Repository
 
-https://github.com/amitedit56/FleetFlow
+https://github.com/NaniBade/FleetFlow
 
 ---
 
